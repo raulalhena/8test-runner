@@ -1,0 +1,14 @@
+{
+  "name": "8test-runner",
+  "description": "F5 8 actividad entregable tests",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
